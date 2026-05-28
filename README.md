@@ -47,8 +47,8 @@ The model follows a spectrogram-based approach:
 ## 📁 Project Structure
 
 ```
-├── Untitled2.ipynb          # Main notebook — training + inference
-├── best_model.weights.h5    # Trained model weights
+├── model.ipynb          # Main notebook — training + inference
+├── weights.weights.h5    # Trained model weights
 └── README.md
 ```
 
@@ -137,3 +137,4 @@ MIT License — free to use, modify, and distribute.
 ## 🙋 Author
 
 Built by Diya as a self-directed ML learning project.
+(the project is going on, updates are made accordingly on Github
